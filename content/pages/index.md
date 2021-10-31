@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Una Perspectiva de la vida
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Complemento del blog y podcast homónimo.
     actions:
       - label: Learn More
         url: /features
